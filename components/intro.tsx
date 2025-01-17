@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Simon.</span> I'm a{" "}
         <span className="font-bold">full-stack software developer currently attending UC Irvine.</span> I have{" "}
-        <span className="font-bold">2 years</span> of experience and I loveee
+        <span className="font-bold">2 years</span> of experience and I love
         building <span className="italic">sites & apps</span>. Some of my hobbies are trying new food spots and watching my goat{" "}
         <span className="underline"><a href="https://www.youtube.com/watch?v=TGJYO1Lb2N4&ab_channel=AndreilinhoHoops">Steph Curry</a></span>.
       </motion.h1>
